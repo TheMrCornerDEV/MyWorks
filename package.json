@@ -14,5 +14,10 @@
     "null"
   ],
   "author": "Alex",
-  "license": "CC-BY-1.0"
+  "license": "CC-BY-1.0",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jslint": "^0.11.0",
+    "yo": "^2.0.0"
+  }
 }
